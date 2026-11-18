@@ -50,7 +50,7 @@ p{margin-bottom:20px}
 .plain-link{display:inline-flex;align-items:center;gap:7px;text-decoration:none;border-bottom:1px solid var(--line);padding-bottom:2px}
 .plain-link svg{width:15px;height:15px}
 .page-main{padding-top:55px;padding-bottom:65px}
-.page-heading{max-width:760px;margin-bottom:34px}
+.page-heading{max-width:760px;margin-bottom:48px}
 .page-heading h1{margin-bottom:0}
 .papers-section{margin-bottom:48px}
 .papers-section>h2{font-size:1.55rem;margin-bottom:7px;padding-bottom:16px;border-bottom:1px solid var(--line)}
@@ -101,7 +101,7 @@ h1{margin-bottom:12px}
 .home-bottom{margin-top:30px}
 .connect-row{gap:18px}
 .page-main{padding-top:36px;padding-bottom:35px}
-.page-heading{margin-bottom:30px}
+.page-heading{margin-bottom:40px}
 .paper{padding-block:23px}
 .site-footer .wrap{align-items:flex-start;flex-direction:column;gap:10px;padding-block:19px}
 .footer-links{gap:22px}
