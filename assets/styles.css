@@ -39,7 +39,7 @@ p{margin-bottom:20px}
 .portrait-frame{background:var(--photo);border-radius:3px;overflow:hidden;aspect-ratio:3/4;margin-top:6px}
 .portrait-frame img{width:100%;height:100%;object-fit:cover;object-position:50% 22%;transform:scale(1.2);transform-origin:50% 12%}
 .market-note,.paper-tag{display:inline-block;color:var(--blue);font:500 13px/1.6 var(--font-body);background:none;border:0;padding:0;letter-spacing:0;text-transform:none}
-.market-note{margin-bottom:18px}
+.market-note{font:400 1.12rem/1.65 var(--font-body);margin-bottom:18px}
 .lead{font:400 1.12rem/1.65 var(--font-body);letter-spacing:0;margin-bottom:0;max-width:520px}
 .bio{font-size:1.04rem;line-height:1.78;margin-bottom:0}
 .bio+.bio{margin-top:16px}
